@@ -1,7 +1,5 @@
-###############################################
 PDFCrowdConverter
-Proof of concept
-###############################################
+================================================================================
 
 Developer
 -----------------------------------------------
@@ -38,7 +36,7 @@ see http://pdfcrowd.com/ for more details
 //$this->pdf->setNoPrint($val); //Set val to True to disable printing the PDF. The default is False.
 //$this->pdf->setNoModify($val); //Set val to True to disable modifying the PDF. The default is False.
 //$this->pdf->setNoCopy($val); //Set val to True to disable extracting text and graphics from the PDF. The default is False.
-//$this->pdf->setPageLayout($value); //Sets the initial page layout when the PDF is opened in a viewer. SINGLE_PAGE 
+//$this->pdf->setPageLayout($value); //Sets the initial page layout when the PDF is opened in a viewer. SINGLE_PAGE
 //CONTINUOUS
 //CONTINUOUS_FACING
 //$this->pdf->setPageMode($value); //Specifies the appearance of the PDF when opened.
@@ -70,6 +68,5 @@ see http://pdfcrowd.com/ for more details
 //$this->pdf->setAuthor($value); //Sets the author field in the created PDF.
 //$this->pdf->setFailOnNon200($value); //If value is True then the conversion will fail when the source URI returns 4xx or 5xx HTTP status code. The default is False.
 
-
-###############################################
+================================================================================
 
